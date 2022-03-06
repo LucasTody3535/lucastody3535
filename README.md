@@ -6,7 +6,7 @@
 
 </div>
 
-<p style="margin-left: 15px; font-style: italic" >It will be a long scroll, so take a ☕ and have a seat, you can call me Lucas by the way</p>
+<p align="center" style="margin-left: 15px" >It will be a long scroll, so take a ☕ and have a seat, you can call me Lucas by the way</p>
 
 <div>
     <p>Currently I`m working on a Typescript lib called <a href="https://github.com/LucasTody3535/linkedts">linkedts</a>, its goal is to provide an api similar the ones that are provided by Array structures in Javascript, append, every, at and the list continues... But, instead of using an array structure, it uses a Linked List structure</p>
@@ -24,59 +24,26 @@
 <ul>
     <li>Vue.js</li>
     <li>Typescript</li>
+    <li>Expressjs</li>
 </ul>
 
+<div align="center">
+
+<p>My Tools</p>
+<div style="margin-left: 15px; margin-bottom: 5px">
+    <img title="Vuejs" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img title="Bulma" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+    <img title="Expressjs" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img title="Nodejs" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img title="NPM" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+</div>
+
+</div>
+
+<br>
+<br>
+
 <p>
-    Tecnologies that I have knownledge
-</p>
-
-<p style="margin-left: 8px">
-    Frontend
-</p>
-
-<div style="margin-left: 15px; margin-bottom: 5px">
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-
-<p style="margin-left: 8px">
-    Backend
-</p>
-
-<div style="margin-left: 15px; margin-bottom: 5px">
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-</div>
-
-<p style="margin-left: 8px">
-    Languages
-</p>
-
-<div style="margin-left: 15px; margin-bottom: 5px">
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</div>
-
-<p style="margin-left: 8px">
-    Operational Systems
-</p>
-
-<div style="margin-left: 15px; margin-bottom: 5px">
-     <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-</div>
-
-<p style="margin-left: 8px">
-    Fullstack Tools
-</p>
-
-<div style="margin-left: 15px; margin-bottom: 5px">
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img style="height: 34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-</div>
-
-<p style="margin-top: 24px">
     I`m looking to work with projects that uses Vue.js or Express, but I accept proposals for work with Angular too, both work from home or in-person. You can contact me in lucas.web3535@gmail.com address for proposals
 </p>
 
