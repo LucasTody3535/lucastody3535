@@ -13,7 +13,7 @@
     <p>The other project I`m going to start is a Character Database Site, which is divided in two parts:</p>
     <ul>
         <li><a href="https://github.com/LucasTody3535/character-database-site-fe">Frontend</a>: Made using Vue.js</li>
-        <li><a href="https://github.com/LucasTody3535/character-database-site-be">Backend</a>: Made using Nestjs</li>
+        <li><a href="https://github.com/LucasTody3535/character-database-site-be">Backend</a>: Made using Expressjs</li>
     </ul>
     <p>As the name says, the project is a site for informations about fictional characters, name, age, birthday, fun facts, everything(Ok not everyting)</p>
 </div>
@@ -24,7 +24,7 @@
 <ul>
     <li>Vue.js</li>
     <li>Typescript</li>
-    <li>Nestjs</li>
+    <li>Expressjs</li>
 </ul>
 
 <div align="center">
@@ -36,7 +36,6 @@
     <img title="Expressjs" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img title="Nodejs" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img title="NPM" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img title="Nestjs" style="height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 </div>
 
 </div>
@@ -45,7 +44,7 @@
 <br>
 
 <p>
-    I`m looking to work with projects that uses Vue.js or Express, but I accept proposals for work with Angular too, both work from home or in-person. You can contact me in lucas.web3535@gmail.com address for proposals
+    I`m looking to work with projects that uses Vue.js or Express, both work from home or in-person. You can contact me in lucas.web3535@gmail.com address for proposals
 </p>
 
 <p>I Hope you had a good reading, see you next time 👋</p>
