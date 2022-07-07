@@ -23,24 +23,6 @@ My current abilities are:
 
 ## Contact
 
+[![my email](./icons/mail.svg)](mailto:lucas.web3535@gmail.com "mail me :D")
+[![my linkedin](./icons/linkedin.svg)](https://www.linkedin.com/in/lucas-eduardo-33089320a/ "my linkedin")
 
-<div
-style="display: flex;
-justify-content: space-between;
-max-width: 100px;
-padding-left: 10px;"
-id="networks">
-
-<a href="mailto:lucas.web3535@gmail.com"
-title="mail me :D">
-<img height=30 width=30
-src="./icons/mail.svg">
-</a>
-
-<a href="https://www.linkedin.com/in/lucas-eduardo-33089320a/"
-title="my linkedin">
-<img height=30 width=30
-src="./icons/linkedin.svg">
-</a>
-
-</div>
