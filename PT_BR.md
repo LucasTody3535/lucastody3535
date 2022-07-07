@@ -1,18 +1,19 @@
-# Hi!, you can call me Lucas
+# Olá!, você pode de chamar de Lucas
 
 <div align=center>
 
-[Portuguese Version](./PT_BR.md)
+[Versão em Inglês](./README.md)
 
 </div>
 
-## About
+## Sobre
 
-I am a junior web developer that wants to grow as both a professional and person.
 
-I am looking to work with projects that uses Vuejs or Express or even both
+Eu sou um desenvolvedor web junior que busca crescer como profissional e como pessoa
 
-My current abilities are:
+Eu desejo oportunidades de trabalho tanto com Vuejs e/ou Express
+
+Minhas habilidades atuais são:
 
 - Vuejs 3
 - Express
@@ -21,7 +22,7 @@ My current abilities are:
 - Linux
 - Javascript, HTML and CSS
 
-## Contact
+## Contatos
 
 
 <div
@@ -32,13 +33,13 @@ padding-left: 10px;"
 id="networks">
 
 <a href="mailto:lucas.web3535@gmail.com"
-title="mail me :D">
+title="mande um email :D">
 <img height=30 width=30
 src="./icons/mail.svg">
 </a>
 
 <a href="https://www.linkedin.com/in/lucas-eduardo-33089320a/"
-title="my linkedin">
+title="meu linkedin">
 <img height=30 width=30
 src="./icons/linkedin.svg">
 </a>
